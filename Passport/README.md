@@ -34,3 +34,5 @@ A Python library that implements a fully-featured “digital passport” class a
 ## Disclaimer
 
 This project was developed as a homework assignment for a University of Liverpool class. Do not redistribute or represent as original work.
+
+© 2024 Prathusha Y Wijesinghe
