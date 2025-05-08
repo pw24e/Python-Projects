@@ -1,4 +1,4 @@
-# Digital Passport
+# Digital Passport - COMP517
 
 A Python library that implements a fully-featured “digital passport” class according to the UN’s new specification. Passports are Python objects with the same fields and behaviors as a real-world passport, plus digital conveniences like JSON export/load and visit-tracking.
 
